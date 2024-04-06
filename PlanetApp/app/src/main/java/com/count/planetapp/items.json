@@ -1,0 +1,41 @@
+[
+  {
+  "image": "asteroid.png",
+  "name": "asteroid",
+  "moons": 1
+},
+{
+  "image": "mercury.png",
+  "name": "mercury",
+  "moons": 1
+},
+{
+  "image": "neptune.png",
+  "name": "neptune",
+  "moons": 1
+},
+{
+  "image": "pluto.png",
+  "name": "pluto",
+  "moons": 1
+},
+{
+  "image": "saturn.png",
+  "name": "saturn",
+  "moons": 1
+},
+{
+  "image": "sun.png",
+  "name": "sun",
+  "moons": 1
+},
+{
+  "image": "uranus.png",
+  "name": "uranus",
+  "moons": 1
+},
+{
+  "image": "venus.png",
+  "name": "venus",
+  "moons": 1
+}]
