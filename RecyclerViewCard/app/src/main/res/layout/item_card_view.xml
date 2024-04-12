@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/cardLayout"
-        android:background="@drawable/backgroundCard2">
+        android:background="@drawable/backgroundcard2">
 
 
         <TextView
